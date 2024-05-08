@@ -25,39 +25,39 @@ let curr_track = document.createElement('audio');
 // Define the list of tracks that have to be played
 let track_list = [
 {
-	name: "Night Owl",
+	name: "Rington",
 	artist: "Broke For Free",
 	image: "Arvind.jpg",
 	path: "NEJ'_-_Paro_(sped_up)_ringtone__[_Download_link_]__PIXEL_BGM(128k)_20231031195307.mp3"
 },
 {
-	name: "Enthusiast",
+	name: "___Pyar_Nava_Nava_Sucha_Yaar___New_Punjabi_Song",
 	artist: "Tours",
-	image: "Arvind.jpg",
+	image: "IMG-20240423-WA0013.jpg",
 	path: "Ve_Pyar_Nawa_Nawa_Hoya_Lagda_(Full_Song)___Pyar_Nava_Nava_Sucha_Yaar___New_Punjabi_Song(128k).m4a"
 },
 {
-	name: "Shipping Lanes",
+	name: "Pagal_Hai_Mai_Kuch_Karna_Java___Ishqan_De_Rog___Deep_Chambal_New_Punjabi_Song_Latest_Punjabi_Songs",
 	artist: "Chad Crouch",
-	image: "Arvind.jpg",
+	image: "IMG-20240423-WA0045.jpg",
 	path: "Pagal_Hai_Mai_Kuch_Karna_Java___Ishqan_De_Rog___Deep_Chambal_New_Punjabi_Song_Latest_Punjabi_Songs(128k).m4a",
 },
 {
-	name: "Night Owl",
+	name: "NEJ'_-_Paro_(sped_up)_ringtone__[_Download_link_]__PIXEL_BGM",
 	artist: "Broke For Free",
-	image: "Arvind.jpg",
+	image: "IMG-20231117-WA0004.jpg",
 	path: "NEJ'_-_Paro_(sped_up)_ringtone__[_Download_link_]__PIXEL_BGM(128k)_20231031195307.mp3"
 },
 {
 	name: "Enthusiast",
 	artist: "Tours",
-	image: "Arvind.jpg",
+	image: "IMG-20240314-WA0013.jpg",
 	path: "Ve_Pyar_Nawa_Nawa_Hoya_Lagda_(Full_Song)___Pyar_Nava_Nava_Sucha_Yaar___New_Punjabi_Song(128k).m4a"
 },
 {
 	name: "Shipping Lanes",
 	artist: "Chad Crouch",
-	image: "Arvind.jpg",
+	image: "IMG-20240205-WA0008.jpg",
 	path: "Pagal_Hai_Mai_Kuch_Karna_Java___Ishqan_De_Rog___Deep_Chambal_New_Punjabi_Song_Latest_Punjabi_Songs(128k).m4a",
 },
 ];
